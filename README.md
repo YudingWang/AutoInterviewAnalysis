@@ -1,7 +1,7 @@
 # Automatic Thematic Analysis for Recorded Interviews
 
 ## UHG project 
-The AutoInterviewAnalysis project is a sub-part of the UHG Capstone project and aims to streamline the process of analyzing interviews conducted in a studio setting. The project facilitates automatic thematic analysis by splitting the audio into manageable pieces and converting them into text.
+The AutoInterviewAnalysis project is a sub-part of the UHG Capstone project and aims to streamline the process of analyzing interviews conducted in a studio setting.\n The project facilitates automatic thematic analysis by splitting the audio into manageable pieces and converting them into text.
 
 ## Objective
 The primary objective of this project is to enable efficient analysis of interview data by converting audio recordings into text format. This process allows for the identification of keywords and important themes within the interviews.
