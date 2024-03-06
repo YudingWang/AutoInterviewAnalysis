@@ -1,2 +1,2 @@
-# InterviewAudioToText
+# Automatic Thematic Analysis
 UHG project 
