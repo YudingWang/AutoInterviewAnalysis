@@ -25,7 +25,7 @@ The primary objective of this project is to enable efficient analysis of intervi
 - **User Feedback Incorporation**: By concluding people's suggestions, the project ensures that user feedback is considered in program development and enhancement.
 
 ## How to Use
-1. **Input Audio**: Provide the audio mp4 recordings from the interviews conducted in a studio setting.
+1. **Input Audio**: Provide the audio mp3/wav recordings from the interviews conducted in a studio setting.
 
 2. **Run Processing Script**: Execute the processing script to split the audio, convert it into text, and perform thematic analysis.
 
